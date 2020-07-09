@@ -1,7 +1,7 @@
-# WhiteProject
+# WhiteProject<br><br>
 (Beta V2.1.2) 09/07/2020<br>
 [+]Added New 6 Boss to Arena Check<br>
-[+]Added Teleports in Temple Carlin, Venore<br>
+[+]Added Teleports in Temple Carlin, Venore<br><br>
 (Beta V2.1.1) 08/07/2020<br>
 [+]Added First 10 Boss to Arena Check<br>
 <br><br>
