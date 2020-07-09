@@ -4,7 +4,7 @@
 [+]Added Teleports in Temple Carlin, Venore<br><br>
 (Beta V2.1.1) 08/07/2020<br>
 [+]Added First 10 Boss to Arena Check<br>
-<br><br>
+<br>
 (Beta V2.1) 07/07/2020<br>
 [+]Added Boss The Scourge of Oblivion for library<br>
 [+]Added Safe Place in Library<br>
